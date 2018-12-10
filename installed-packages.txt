@@ -30,7 +30,6 @@ armagetronad-common
 aspell
 aspell-en
 at-spi2-core
-atom
 attr
 avahi-autoipd
 avahi-daemon
@@ -172,7 +171,6 @@ dosfstools
 dpkg
 dpkg-dev
 dpkg-repack
-druva-insync-client
 duplicity
 dvd+rw-tools
 e2fslibs:amd64
@@ -2237,7 +2235,6 @@ mint-y-theme
 mintbackup
 mintdrivers
 mintinstall
-mintinstall-icons
 mintlocale
 mintmenu
 mintnanny
