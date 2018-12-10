@@ -1,0 +1,2 @@
+deb [arch=amd64] https://download.docker.com/linux/ubuntu xenial    stable
+deb [arch=amd64,i386] https://cran.rstudio.com/bin/linux/ubuntu xenial/
