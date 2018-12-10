@@ -1,5 +1,6 @@
 sudo vi /etc/thermald/thermal-conf.xml
 # Change 55000 to 85000 to disable throttling on battery (until CPU is
-# much hotter.
+# much hotter)
 
-
+Install atom, druva
+,

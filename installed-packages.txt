@@ -2495,7 +2495,6 @@ python-samba
 python-serial
 python-service-identity
 python-setproctitle
-python-sexy
 python-sip
 python-six
 python-smbc
@@ -2636,7 +2635,6 @@ rhythmbox-data
 rhythmbox-plugin-cdrecorder
 rhythmbox-plugin-tray-icon
 rhythmbox-plugins
-rstudio
 rsync
 rsyslog
 rtkit
