@@ -1389,8 +1389,6 @@ liblvm2cmd2.02:amd64
 liblwp-mediatypes-perl
 liblwp-protocol-https-perl
 liblwres141:amd64
-liblxc-common
-liblxc1
 liblz4-1:amd64
 liblzma5:amd64
 liblzma5:i386
@@ -2176,7 +2174,6 @@ lua-lpeg:amd64
 lupin-casper
 lupin-support
 lvm2
-lxc-common
 lxcfs
 lxd
 lxd-client
@@ -2659,8 +2656,6 @@ sessioninstaller
 sgml-base
 sgml-data
 shared-mime-info
-shim
-shim-signed
 shutter
 signon-keyring-extension
 signon-plugin-oauth2
@@ -2758,8 +2753,6 @@ vim-common
 vim-runtime
 vim-tiny
 vino
-virtualbox-guest-utils
-virtualbox-guest-x11
 vlc
 vlc-data
 vlc-nox
@@ -2805,7 +2798,6 @@ xorg
 xorg-docs-core
 xplayer
 xplayer-common
-xplayer-mozilla
 xplayer-plugins
 xplayer-plugins-extra
 xreader
